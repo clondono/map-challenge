@@ -3,8 +3,8 @@ Use the data sets provided in /data to create a unique experience using any mapp
 
 There are three sets of data included:
 
-`users.csv` - A list of 20 users from a theoretical system with basic information about the user.
-`transactions.csv` - A list of financial transactions for all of the users in `users.csv`.
+`users.csv` - A list of 20 users from a theoretical system with basic information about the user.  
+`transactions.csv` - A list of financial transactions for all of the users in `users.csv`.  
 `locations.csv` - A list of geographic locations of users during a given time using latitide and longitude
 
 ## Requirements
